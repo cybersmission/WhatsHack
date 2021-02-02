@@ -1,5 +1,5 @@
-*Learn Hacking With Cyber Mission
-*Cyber Mission Help You To Learn Hacking
+* Learn Hacking With Cyber Mission
+* Cyber Mission Help You To Learn Hacking
 
 * make sure you are a root user.
 # Install
